@@ -1,7 +1,7 @@
 //202516301209
 //15183116485@163.com
 //廖清惠
-
+#include <stdio.h>
 
 int main() {
     int score; 
